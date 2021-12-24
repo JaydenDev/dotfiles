@@ -1,0 +1,1 @@
+/home/jmwills/bspwm-window-titles/bspwm/bspwm_window_titles.sh
